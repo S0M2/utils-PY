@@ -1,0 +1,150 @@
+[
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/{username}"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://www.twitter.com/{username}"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/{username}"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/{username}"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://www.tiktok.com/@{username}"
+        },
+        {
+            "name": "Snapchat",
+            "url": "https://www.snapchat.com/add/{username}"
+        },
+        {
+            "name": "Pinterest",
+            "url": "https://www.pinterest.com/{username}"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/user/{username}"
+        },
+        {
+            "name": "Tumblr",
+            "url": "https://{username}.tumblr.com"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/{username}"
+        },
+        {
+            "name": "Twitch",
+            "url": "https://www.twitch.tv/{username}"
+        },
+        {
+            "name": "Vimeo",
+            "url": "https://vimeo.com/{username}"
+        },
+        {
+            "name": "WhatsApp",
+            "url": "https://wa.me/{username}"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/{username}"
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/@{username}"
+        },
+        {
+            "name": "WordPress",
+            "url": "https://{username}.wordpress.com"
+        },
+        {
+            "name": "eBay",
+            "url": "https://www.ebay.com/usr/{username}"
+        },
+        {
+            "name": "Etsy",
+            "url": "https://www.etsy.com/shop/{username}"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/{username}"
+        },
+        {
+            "name": "SoundCloud",
+            "url": "https://soundcloud.com/{username}"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://open.spotify.com/user/{username}"
+        },
+        {
+            "name": "Flickr",
+            "url": "https://www.flickr.com/people/{username}"
+        },
+        {
+            "name": "Dribbble",
+            "url": "https://dribbble.com/{username}"
+        },
+        {
+            "name": "Behance",
+            "url": "https://www.behance.net/{username}"
+        },
+        {
+            "name": "DeviantArt",
+            "url": "https://www.deviantart.com/{username}"
+        },
+        {
+            "name": "Goodreads",
+            "url": "https://www.goodreads.com/{username}"
+        },
+        {
+            "name": "Last.fm",
+            "url": "https://www.last.fm/user/{username}"
+        },
+        {
+            "name": "Quora",
+            "url": "https://www.quora.com/profile/{username}"
+        },
+        {
+            "name": "AngelList",
+            "url": "https://angel.co/{username}"
+        },
+        {
+            "name": "Product Hunt",
+            "url": "https://www.producthunt.com/@{username}"
+        },
+        {
+            "name": "Kaggle",
+            "url": "https://www.kaggle.com/{username}"
+        },
+        {
+            "name": "Bitbucket",
+            "url": "https://bitbucket.org/{username}"
+        },
+        {
+            "name": "GitLab",
+            "url": "https://gitlab.com/{username}"
+        },
+        {
+            "name": "Stack Overflow",
+            "url": "https://stackoverflow.com/users/{username}"
+        },
+        {
+            "name": "HackerRank",
+            "url": "https://www.hackerrank.com/{username}"
+        },
+        {
+            "name": "CodePen",
+            "url": "https://codepen.io/{username}"
+        },
+        {
+            "name": "Replit",
+            "url": "https://replit.com/@{username}"
+        }
+    ]
