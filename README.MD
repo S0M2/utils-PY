@@ -7,9 +7,9 @@
 	•	matplotlib (pour les graphiques et l’intégration avec Tkinter)
 	•	cryptography (pour le module Fernet)
 
-```python
+````python
 pip install aiohttp pillow matplotlib cryptography
-```
+````
 Prérequis spécifiques selon ton OS
 	•	Tkinter :
 	•	Sous Windows et macOS, Tkinter est généralement inclus avec Python.
@@ -17,9 +17,9 @@ Prérequis spécifiques selon ton OS
 
 Ouvre ton terminal et exécute :
 
-```bash
+````bash
 sudo apt-get install python3-tk
-```
+````
 
 
 ![Capture d'écran](image/chat.png)
